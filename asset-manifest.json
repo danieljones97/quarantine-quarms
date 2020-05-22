@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/quarantinequarms/static/css/main.e6fe71be.chunk.css",
-    "main.js": "/quarantinequarms/static/js/main.806ed0c0.chunk.js",
-    "main.js.map": "/quarantinequarms/static/js/main.806ed0c0.chunk.js.map",
-    "runtime-main.js": "/quarantinequarms/static/js/runtime-main.e81a36ba.js",
-    "runtime-main.js.map": "/quarantinequarms/static/js/runtime-main.e81a36ba.js.map",
-    "static/js/2.78e23cc3.chunk.js": "/quarantinequarms/static/js/2.78e23cc3.chunk.js",
-    "static/js/2.78e23cc3.chunk.js.map": "/quarantinequarms/static/js/2.78e23cc3.chunk.js.map",
-    "index.html": "/quarantinequarms/index.html",
-    "precache-manifest.483d2a5e2997e9366c4a61f7ad4fc1aa.js": "/quarantinequarms/precache-manifest.483d2a5e2997e9366c4a61f7ad4fc1aa.js",
-    "service-worker.js": "/quarantinequarms/service-worker.js",
-    "static/css/main.e6fe71be.chunk.css.map": "/quarantinequarms/static/css/main.e6fe71be.chunk.css.map",
-    "static/js/2.78e23cc3.chunk.js.LICENSE.txt": "/quarantinequarms/static/js/2.78e23cc3.chunk.js.LICENSE.txt"
+    "main.css": "/quarantine-quarms/static/css/main.e6fe71be.chunk.css",
+    "main.js": "/quarantine-quarms/static/js/main.806ed0c0.chunk.js",
+    "main.js.map": "/quarantine-quarms/static/js/main.806ed0c0.chunk.js.map",
+    "runtime-main.js": "/quarantine-quarms/static/js/runtime-main.c531db82.js",
+    "runtime-main.js.map": "/quarantine-quarms/static/js/runtime-main.c531db82.js.map",
+    "static/js/2.c24a61b0.chunk.js": "/quarantine-quarms/static/js/2.c24a61b0.chunk.js",
+    "static/js/2.c24a61b0.chunk.js.map": "/quarantine-quarms/static/js/2.c24a61b0.chunk.js.map",
+    "index.html": "/quarantine-quarms/index.html",
+    "precache-manifest.6e58302aa80444926e47ab576addc1d9.js": "/quarantine-quarms/precache-manifest.6e58302aa80444926e47ab576addc1d9.js",
+    "service-worker.js": "/quarantine-quarms/service-worker.js",
+    "static/css/main.e6fe71be.chunk.css.map": "/quarantine-quarms/static/css/main.e6fe71be.chunk.css.map",
+    "static/js/2.c24a61b0.chunk.js.LICENSE.txt": "/quarantine-quarms/static/js/2.c24a61b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e81a36ba.js",
-    "static/js/2.78e23cc3.chunk.js",
+    "static/js/runtime-main.c531db82.js",
+    "static/js/2.c24a61b0.chunk.js",
     "static/css/main.e6fe71be.chunk.css",
     "static/js/main.806ed0c0.chunk.js"
   ]
