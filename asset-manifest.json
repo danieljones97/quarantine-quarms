@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/quarantine-quarms/static/css/main.e6fe71be.chunk.css",
-    "main.js": "/quarantine-quarms/static/js/main.806ed0c0.chunk.js",
-    "main.js.map": "/quarantine-quarms/static/js/main.806ed0c0.chunk.js.map",
-    "runtime-main.js": "/quarantine-quarms/static/js/runtime-main.c531db82.js",
-    "runtime-main.js.map": "/quarantine-quarms/static/js/runtime-main.c531db82.js.map",
-    "static/js/2.c24a61b0.chunk.js": "/quarantine-quarms/static/js/2.c24a61b0.chunk.js",
-    "static/js/2.c24a61b0.chunk.js.map": "/quarantine-quarms/static/js/2.c24a61b0.chunk.js.map",
-    "index.html": "/quarantine-quarms/index.html",
-    "precache-manifest.6e58302aa80444926e47ab576addc1d9.js": "/quarantine-quarms/precache-manifest.6e58302aa80444926e47ab576addc1d9.js",
-    "service-worker.js": "/quarantine-quarms/service-worker.js",
-    "static/css/main.e6fe71be.chunk.css.map": "/quarantine-quarms/static/css/main.e6fe71be.chunk.css.map",
-    "static/js/2.c24a61b0.chunk.js.LICENSE.txt": "/quarantine-quarms/static/js/2.c24a61b0.chunk.js.LICENSE.txt"
+    "main.css": "/www.quarantinequarms.co.uk/static/css/main.e6fe71be.chunk.css",
+    "main.js": "/www.quarantinequarms.co.uk/static/js/main.806ed0c0.chunk.js",
+    "main.js.map": "/www.quarantinequarms.co.uk/static/js/main.806ed0c0.chunk.js.map",
+    "runtime-main.js": "/www.quarantinequarms.co.uk/static/js/runtime-main.a0a8f8c6.js",
+    "runtime-main.js.map": "/www.quarantinequarms.co.uk/static/js/runtime-main.a0a8f8c6.js.map",
+    "static/js/2.5169d09f.chunk.js": "/www.quarantinequarms.co.uk/static/js/2.5169d09f.chunk.js",
+    "static/js/2.5169d09f.chunk.js.map": "/www.quarantinequarms.co.uk/static/js/2.5169d09f.chunk.js.map",
+    "index.html": "/www.quarantinequarms.co.uk/index.html",
+    "precache-manifest.aeeb2e3cd79645da1ca10ae33cc43ca2.js": "/www.quarantinequarms.co.uk/precache-manifest.aeeb2e3cd79645da1ca10ae33cc43ca2.js",
+    "service-worker.js": "/www.quarantinequarms.co.uk/service-worker.js",
+    "static/css/main.e6fe71be.chunk.css.map": "/www.quarantinequarms.co.uk/static/css/main.e6fe71be.chunk.css.map",
+    "static/js/2.5169d09f.chunk.js.LICENSE.txt": "/www.quarantinequarms.co.uk/static/js/2.5169d09f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c531db82.js",
-    "static/js/2.c24a61b0.chunk.js",
+    "static/js/runtime-main.a0a8f8c6.js",
+    "static/js/2.5169d09f.chunk.js",
     "static/css/main.e6fe71be.chunk.css",
     "static/js/main.806ed0c0.chunk.js"
   ]
